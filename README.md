@@ -23,7 +23,7 @@
 <h3> How to use: </h3>
 
 <p> Clone this repository </p>
-<blockquote>$ git clone https://github.com/gabrielmaciel7/send-mail-php</blockquote>
+<blockquote>$ git clone ...</blockquote>
 <p> Use XAMPP for open index.php in the browser </p>
 <blockquote>https://www.apachefriends.org/</blockquote>
 <p> Insert email and password </p>
